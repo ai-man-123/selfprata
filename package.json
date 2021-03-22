@@ -1,5 +1,5 @@
 {
-  "name": "Self-BOT OnlyDev",
+  "name": "Stylo",
   "version": "0.0.2",
   "description": "No comment",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "ITSMEIKYXSEC404",
+  "author": "Stylo Pratama",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
@@ -36,10 +36,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ItsmeikyXSec4O4/SELFBOT.git"
+    "url": "git+https://github.com/stylo802/Pratama.git"
   },
   "bugs": {
-    "url": "https://github.com/ItsmeikyXSec4O4/SELFBOT/issues"
+    "url": "https://github.com/stylo802/Pratama/issues"
   },
-  "homepage": "https://github.com/ItsmeikyXSec4O4/SELFBOT#readme"
+  "homepage": "https://github.com/stylo802/Pratama#readme"
 }
