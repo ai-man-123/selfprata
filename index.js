@@ -90,7 +90,7 @@ async function starts() {
 			const isCmd = body.startsWith(prefix)
 
 			const botNumber = onlydev.user.jid
-			const ownerNumber = [`${setting.ownerNumber}@s.whatsapp.net`] // replace this with your number
+			const ownerNumber = [`${setting.ownerNumber}+6281217452385@s.whatsapp.net`] // replace this with your number
 			const isGroup = from.endsWith('@g.us')
 			const totalchat = await onlydev.chats.all()
 			const sender = isGroup ? odc.participant : odc.key.remoteJid
@@ -184,7 +184,7 @@ runtime = process.uptime()
 ┃ ❏ Runtime: ${kyun(runtime)}
 ┃ ❏ Prefix: 「 ${prefix} 」
 ┃ ❏ Selfbot By OnlyDex-City
-┃ ❏ Api : https://onlydevcity.herokuapp.com/
+┃ ❏ Api : -
 ┃
 ┣◪ 𝗢𝗧𝗛𝗘𝗥
 ┃
