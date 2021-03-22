@@ -5,7 +5,7 @@ $pkg install.ffmpeg && pkg install.bash && pkg install.node && pkg install node.
 $git clone https://github.com/stylo802/Pratama
 $cd 
 $ls
-$cd SelfBotOdc
+$cd Pratama
 $bash install.sh
 $node index.js
 
