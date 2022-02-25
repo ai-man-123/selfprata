@@ -178,12 +178,12 @@ onlydev.sendMessage(from, Hmm, audio, { mimetype: 'audio/mp4', quoted : odc, ptt
 				case 'menu':
 runtime = process.uptime()
 	onlydev.sendMessage(from, `
-┏━━━━《 OnlyDex-City シ︎ 》━━━━
+┏━━━━《 aiman-City シ︎ 》━━━━
 ┃
 ┣◪ 𝗜𝗡𝗙𝗢
 ┃ ❏ Runtime: ${kyun(runtime)}
 ┃ ❏ Prefix: 「 ${prefix} 」
-┃ ❏ Selfbot By OnlyDex-City
+┃ ❏ Selfbot By Aiman
 ┃ ❏ Api : -
 ┃
 ┣◪ 𝗢𝗧𝗛𝗘𝗥
@@ -342,9 +342,9 @@ runtime = process.uptime()
 ┣ ❏ ${prefix}smile
 ┣ ❏ ${prefix}glomp
 ┣ ❏ ${prefix}cringe
-┣ ❏ ${prefix}hentaipict
+┣ ❏ ${prefix}18+
 ┃
-┗━━━━《 OnlyDex-City シ︎ 》━━━━`, MessageType.text, {quoted: freply})
+┗━━━━《 aiman-City シ︎ 》━━━━`, MessageType.text, {quoted: freply})
 					break
 		case 'tebakgambar':
 					anu = await fetchJson(`https://onlydevcity.herokuapp.com/api/kuis/tebakgambar?apikey=onlyonedeveloper`, {method: 'get'})
@@ -1969,5 +1969,5 @@ runtime = process.uptime()
 starts()
 //SC BY MHANKBARBAR
 //FREE WEB API BY ITSMEIKYXSEC404
-//RECODE BY ITSMEIKYXSEC404 & RIZKYO
+//RECODE BY ITSMEIKYXSEC404 & RIZKYO & Aiman
 //CUMAN RECODE BANG
